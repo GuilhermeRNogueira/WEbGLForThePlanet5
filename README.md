@@ -1,2 +1,2 @@
-# WEbGLForThePlanet5
-ForThePlanet WebGL Game with 6Ger60
+# WebGLForThePlanet7
+ForThePlanet WebGL game with 6Ger60
